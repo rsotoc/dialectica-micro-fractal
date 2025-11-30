@@ -26,9 +26,3 @@ La figura resultante no es heroica ni espectacular. Es paciente, iterativa, resi
 
 ---
 
-## 📌 Puntos clave
-
-- El intelectual orgánico clásico dependía de instituciones estables y horizontes compartidos, hoy debilitados.  
-- Su función se reorienta hacia escalas micro donde puede sostener continuidad afectiva y cognitiva.  
-- La coherencia del sujeto fractal se vuelve condición de posibilidad para la crítica en un entorno saturado.  
-- No se abandona la crítica: se preservan las condiciones mínimas para que vuelva a operar en cuanto las estructuras lo permitan.
