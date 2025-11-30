@@ -34,9 +34,3 @@ La batalla de los atractores no se gana con grandes gestos, sino con ritmos. All
 
 ---
 
-## 📌 Puntos clave
-
-- Los atractores son patrones que organizan la experiencia: algunos capturan, otros sostienen.  
-- Los atractores de captura se reproducen mediante saturación y urgencia; los de coherencia mediante repetición paciente.  
-- El sujeto fractal introduce un atractor alternativo que preserva continuidad en entornos inestables.  
-- La persistencia de patrones pequeños genera capital social disidente que puede habilitar futuros políticos posibles.
