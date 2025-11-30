@@ -36,9 +36,3 @@ El poder concentrado tiende siempre a volverse totalizante. La tecnología fract
 
 ---
 
-## 📌 Puntos clave
-
-- La soberanía digital no es aislamiento tecnológico, sino autonomía dentro de infraestructuras inevitables.  
-- La tecnología fractal crea espacios donde el sujeto puede actuar sin ser totalmente legible.  
-- Los protocolos distribuidos acumulan capital social disidente con posible impacto macro.  
-- No se asume ninguna utopía tecnológica: solo prácticas concretas que reducen captura y amplían libertad.  
