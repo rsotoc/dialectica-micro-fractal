@@ -27,7 +27,7 @@ La reputación fractal funciona, en este sentido, como el **sistema nervioso** d
 
 Estos protocolos preparan el terreno para que la agencia fractal trascienda el gesto personal. Permiten que sujetos coherentes —esos bloques del muro— descubran su potencia conjunta sin sacrificar su autonomía. En un mundo saturado de sistemas opacos, constituyen una de las pocas vías para construir resiliencia desde abajo utilizando la infraestructura de arriba.
 
-## Puntos clave
+## 📌 Puntos clave
 
 - La reputación fractal distribuye la confianza sin necesidad de autoridades centralizadas.  
 - Alinea interés personal y bienestar colectivo mediante incentivos coherentes.  
