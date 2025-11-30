@@ -8,5 +8,5 @@ has_children: true
 
 Selecciona una versión en el menú:
 
-- [Versión en Español](/dialectica-micro-fractal/docs/es/)
+- [Versión en Español](/dialectica-micro-fractal/es/)
 
