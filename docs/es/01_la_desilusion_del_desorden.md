@@ -23,10 +23,3 @@ Esta continuidad, lejos de ser un repliegue, constituye la base de una nueva acu
 La desilusión del desorden, entonces, no es un llamado a la obediencia ni a la moderación. Es el reconocimiento de que, bajo las condiciones actuales, la libertad requiere estructuras internas y externas que no se derrumben ante cada nuevo estímulo. Y esas estructuras, en ausencia de instituciones capaces de proveerlas, deben comenzar en espacios pequeños, sostenidos por sujetos capaces de mantener una coherencia mínima que beneficie no solo a sí mismos, sino al tejido que los rodea.
 
 ---
-
-## 📌 Puntos clave
-
-- El desorden perdió su potencia crítica: el sistema aprendió a absorberlo y explotarlo.
-- La coherencia personal es una forma de resistencia a la captura afectiva y una expansión de la libertad ajena.
-- Las prácticas mínimas, sostenidas, permiten acumular capital social disidente que el desorden no puede generar.
-- No se trata de restaurar un orden perdido, sino de sostener patrones propios en medio de la volatilidad estructural.
