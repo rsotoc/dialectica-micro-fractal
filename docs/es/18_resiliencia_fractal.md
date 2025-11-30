@@ -1,7 +1,7 @@
 ---
 title: "La Resiliencia Fractal: Cuando lo Inteligente es Distribuido"
 parent: "Versión en Español"
-nav_order: 18
+nav_order: 19
 ---
 
 # La Resiliencia Fractal: Cuando lo Inteligente es Distribuido
