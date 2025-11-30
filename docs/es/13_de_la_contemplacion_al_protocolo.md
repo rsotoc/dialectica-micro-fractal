@@ -22,9 +22,3 @@ Por eso, a partir de aquí, la acción consciente se leerá como *código ejecut
 
 ---
 
-## 📌 Puntos clave
-
-- La coherencia personal no es bienestar privado: es expansión de libertad ajena.  
-- La agencia fractal produce capital social disidente que puede escalar políticamente.  
-- “Protocolizar” prácticas evita que la coherencia se vuelva una forma de élite.  
-- No hay destinos históricos garantizados: las aperturas dependen de tensiones reales y acumulaciones concretas.  
