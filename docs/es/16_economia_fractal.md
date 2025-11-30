@@ -1,7 +1,7 @@
 ---
 title: "La Economía Fractal: Prosperidad en Microescala"
 parent: "Versión en Español"
-nav_order: 16
+nav_order: 17
 ---
 
 # La Economía Fractal: Prosperidad en Microescala
