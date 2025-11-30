@@ -25,9 +25,4 @@ La resiliencia fractal no reemplaza al Estado, pero compensa sus fallas estructu
 
 Esta acumulación de prácticas genera *capital social disidente latente*: relaciones y saberes que se activan cuando las instituciones fallan. El desafío es institucionalizar estas capacidades distribuidas, convertir la respuesta emergente en arquitectura permanente.
 
-## 📌 Puntos clave
-
-- La resiliencia proviene de nodos autónomos, no del control centralizado.  
-- Las respuestas comunitarias durante la pandemia revelan el potencial de la inteligencia distribuida.  
-- La resiliencia fractal genera capital social disidente para momentos críticos.  
-- No presupone futuros inevitables: transforma prácticas de emergencia en infraestructura estable.
+-----
