@@ -29,10 +29,3 @@ La dialéctica no asegura un destino, pero sí ofrece una forma de pensar el mov
 Así, el materialismo dialéctico no desaparece en la era de los sistemas opacos: cambia de escala. Su fuerza ya no proviene únicamente de la capacidad de analizar estructuras visibles, sino de la capacidad de sostener subjetividades capaces de percibir contradicciones que se manifiestan en ritmos, interrupciones y modulaciones afectivas. La dialéctica se vuelve más lenta, pero también más precisa. Más silenciosa, pero no menos radical.
 
 ---
-
-## 📌 Puntos clave
-
-- El materialismo dialéctico no es teleológico: describe tensiones, no destinos.  
-- Los sistemas opacos alteran cómo las contradicciones se manifiestan y cómo pueden ser leídas.  
-- La agencia fractal preserva la continuidad subjetiva necesaria para interpretar tensiones materiales.  
-- La dialéctica sigue siendo útil, pero requiere incorporar dinámicas de sistemas complejos.  
