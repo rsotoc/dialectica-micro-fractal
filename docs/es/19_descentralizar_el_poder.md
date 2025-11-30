@@ -1,7 +1,7 @@
 ---
 title: "Descentralizar el Poder: Del Estado-Alfa a la Multiplicidad Fractal"
 parent: "Versión en Español"
-nav_order: 19
+nav_order: 20
 ---
 
 # Descentralizar el Poder: Del Estado-Alfa a la Multiplicidad Fractal
