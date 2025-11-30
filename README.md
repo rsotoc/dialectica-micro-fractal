@@ -127,10 +127,11 @@ Esto significa:
 
 ---
 
-## 🌐 GitHub Pages (opcional)
+## 🌐 GitHub Pages
 
 Este repositorio está preparado para publicarse como sitio web usando GitHub Pages.  
-Cuando lo actives, los archivos Markdown del libro se verán como capítulos navegables.
+
+https://nomosfractal.github.io/dialectica-micro-fractal/es/
 
 ---
 
