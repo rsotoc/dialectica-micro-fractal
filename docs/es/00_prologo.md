@@ -24,11 +24,3 @@ A lo largo de los capítulos, el lector encontrará un movimiento constante: del
 
 Este documento es una exploración de esa posibilidad.
 
----
-
-## 📌 Puntos clave
-
-- Las crisis actuales contraen los horizontes de acción y comprensión.
-- La coherencia personal funciona como fuerza expansiva: libera tiempo, atención y soporte para otros.
-- La agencia fractal acumula capital social disidente que puede volverse políticamente relevante.
-- No se presupone ningún destino histórico inevitable; las aperturas dependen de tensiones materiales reales.
