@@ -1,7 +1,7 @@
 ---
 title: "Epílogo: Hacia un Proyecto en Expansión"
 parent: "Versión en Español"
-nav_order: 99
+nav_order: 100
 ---
 
 # Guía para colaboradores: Proceso desde cero
