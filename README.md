@@ -103,7 +103,7 @@ Cuando una práctica, concepto o argumento tenga genealogía rastreable en comun
 
 Este proyecto da crédito a los históricamente desacreditados: pequeños productores, trabajadores invisibilizados, pensadores marginados por el canon. Mantiene ese estándar sin fetichizar la autoridad académica.
 
-#### **El uso de las ideas debe ser libre.**
+#### **Las ideas son comunes. Su uso debe ser libre.**
 
 ---
 
