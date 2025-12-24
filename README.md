@@ -4,10 +4,10 @@ La **Dialéctica Micro-Fractal** es una propuesta conceptual, filosófica y prá
 
 Este repositorio reúne:
 
-- 📘 La versión en **Markdown** del libro (carpeta `book/`)
-- 📄 La versión **PDF** final (carpeta `pdf/`)
-- 🧩 El código fuente en **LaTeX** (carpeta `latex/`)
-- 🖼️ Imágenes, diagramas y otros materiales (carpeta `assets/`)
+- La versión en **Markdown** del libro (carpeta `book/`)
+- La versión **PDF** final (carpeta `pdf/`)
+- El código fuente en **LaTeX** (carpeta `latex/`)
+- Imágenes, diagramas y otros materiales (carpeta `assets/`)
 
 El objetivo es que el libro sea accesible, editable y extensible.  
 Siéntete libre de bifurcar, comentar o proponer capítulos adicionales.
@@ -33,7 +33,7 @@ Otras traducciones pueden desarrollarse de forma independiente como **forks** de
 
 ---
 
-## 📚 Estructura del repositorio
+## Estructura del repositorio
 
 <pre>
 dialectica-microfractal/
@@ -60,7 +60,7 @@ dialectica-microfractal/
 
 ---
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 Crear un texto vivo, evolutivo y accesible que explore cómo individuos y comunidades pueden:
 
@@ -73,7 +73,7 @@ Este repositorio no busca producir un dogma, sino herramientas conceptuales y t�
 
 ---
 
-## ✍️ Autoría y Origen del Proyecto
+## Autoría y Origen del Proyecto
 
 Este libro comenzó como una exploración personal y experimental.  
 Sin embargo, la **Dialéctica Micro-Fractal** no pretende sostenerse en la autoridad de un autor, ni en una firma única, ni en la idea clásica de propiedad intelectual.
@@ -96,7 +96,18 @@ Cualquier evolución futura será obra de quienes adopten, critiquen y desarroll
 
 ---
 
-## 🧩 Cómo contribuir
+## Nota sobre fuentes y genealogías
+Este manifiesto no utiliza aparato de citación académica de forma sistemática. Las ideas aquí presentadas no tienen dueños y muchas no son originales—se ofrecen porque funcionan, no porque alguien prestigioso las validó.
+
+Cuando una práctica, concepto o argumento tenga genealogía rastreable en comunidades específicas (indígenas, campesinas, obreras, del Sur Global), se reconoce explícitamente. Cuando las ideas provengan de tradiciones teóricas establecidas, el lector con formación académica las reconocerá; quien no la tenga, puede usar las ideas sin ese bagaje.
+
+Este proyecto da crédito a los históricamente desacreditados: pequeños productores, trabajadores invisibilizados, pensadores marginados por el canon. Mantiene ese estándar sin fetichizar la autoridad académica.
+
+#### **El uso de las ideas debe ser libre.**
+
+---
+
+## Cómo contribuir
 
 1. Haz un *fork* del repositorio.
 2. Crea una rama con tu contribución: git checkout -b mejora-capitulo-3
@@ -141,7 +152,7 @@ https://nomosfractal.github.io/dialectica-micro-fractal/es/
 
 ---
 
-## 🤝 Agradecimientos
+## Agradecimientos
 
 Gracias a quienes han acompañado el proceso de escritura, discusión y revisión crítica. Este libro es, por diseño, una obra en expansión fractal.
 
